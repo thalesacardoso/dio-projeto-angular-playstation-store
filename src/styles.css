@@ -5,15 +5,13 @@ LINKEDIN: https://www.linkedin.com/in/thalesacardoso/
 DATA: 07/02/2024
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap');
-
 * {
    margin: 0;
    padding: 0;
    border: 0;
    box-sizing: border-box;
    text-decoration: none;
-   font-family: 'Open Sans', sans-serif;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
    list-style: none;
    color: #FFF;
 }
@@ -44,6 +42,11 @@ h3 {
 p {
    font-size: 1rem;
    font-weight: 400;
+}
+
+a {
+   font-size: 1rem;
+   font-weight: 600;
 }
 
 img {

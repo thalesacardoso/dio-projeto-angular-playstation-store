@@ -1,0 +1,38 @@
+.menu-bar__container {
+   width: 100vw;
+   padding: 0.5rem 2rem;
+   background-color: #fff;
+   position: fixed;
+   z-index: 99;
+   display: flex;
+}
+
+.menu-bar__logo {
+   display: flex;
+   align-items: center;
+}
+
+.menu-bar__logo img {
+   height: 32px;
+}
+
+.menu-bar__item {
+   margin: auto;
+   display: flex;
+   align-items: center;
+}
+
+.menu-bar__item ul {
+   display: flex;
+   gap: 1.5rem;
+}
+
+.menu-bar__item li > a {
+   padding: 5px;
+   color: #333;
+}
+
+.menu-bar__item li > a:hover {
+   color: blue;
+   font-weight: 700;
+}
