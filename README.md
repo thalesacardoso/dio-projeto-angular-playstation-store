@@ -1,27 +1,39 @@
-# Psn
+<h1 align="center">🏆 Desafio de projeto - Clone da PlayStation Store</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+<p>  
+   Este projeto foi criado com a finalidade de praticar os conhecimentos adquiridos através do curso de Angular da plataforma de estudos da DIO.
+</p>
 
-## Development server
+<h2>Conheça o projeto clicando na imagem abaixo:</h2>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<a href="https://github.com/thalesacardoso">
+  <img src="./src/assets/layout2.png">
+</a>
 
-## Code scaffolding
+### Tecnologias Utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-  HTML 5
+-  CSS 3
+-  Typescript
+-  Angular 14
 
-## Build
+### Como experimentar
+1. Clone este repositório para sua máquina local.
+2. Abra o projeto pelo vscode
+3. Execute através do terminar o comando 'ng serve'
+4. Aguarde até que o terminal avise que a execução está completa
+5. Abra o seu navegador web e acesse o endereço http://localhost:4200/
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Créditos
 
-## Running unit tests
+Este projeto foi desenvolvido como parte de um desafio educacional da Digital Innovation One.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Desenvoledor
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+-  Thales A Cardoso
+-  <a href="https://www.linkedin.com/in/thalesacardoso/">
+      Linkedin
+   </a>
+-  <a href="https://github.com/thalesacardoso">
+      Github
+   </a>

@@ -53,4 +53,12 @@
       display: flex;
       align-items: center;
    }
+
+   .menu-bar__item {
+      margin: 0 5px;
+   }
+   
+   .menu-bar__item ul {
+      gap: 0.8rem;
+   }
 }
