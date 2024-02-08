@@ -6,7 +6,7 @@
 
 <h2>Conheça o projeto clicando na imagem abaixo:</h2>
 
-<a href="https://github.com/thalesacardoso">
+<a href="https://www.linkedin.com/in/thalesacardoso/">
   <img src="./src/assets/layout2.png">
 </a>
 
