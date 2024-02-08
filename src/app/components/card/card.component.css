@@ -19,3 +19,14 @@
 .card__img:hover {
    transform: scale(1.1);
 }
+
+@media screen and (max-width: 480px) { 
+   .card__container {
+      width: 80vw;
+      min-width: 230px;
+      height: 100vw;
+      min-height: 320px;
+      border: 2px solid #3E4357;
+   }
+
+}
